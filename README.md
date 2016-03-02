@@ -16,7 +16,9 @@ Features:
  * Power LED.
  * Filter caps.
 
-![Oblique view](https://raw.githubusercontent.com/SuperHouse/D1MPOWER/master/images/D1MPOWER-oblique-v1_0.png)
+![Oblique view 1](https://raw.githubusercontent.com/SuperHouse/D1MPOWER/master/images/D1MPOWER-v1_0-in-use-800x520.jpg)
+
+![Oblique view 2](https://raw.githubusercontent.com/SuperHouse/D1MPOWER/master/images/D1MPOWER-oblique-v1_0.png)
 
 ![Top view](https://raw.githubusercontent.com/SuperHouse/D1MPOWER/master/images/D1MPOWER-top-v1_0.png)
 
