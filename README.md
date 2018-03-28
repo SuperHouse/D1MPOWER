@@ -1,9 +1,7 @@
 Power Shield for the WeMos D1 Mini
 ==================================
 
-Copyright 2016 SuperHouse Automation Pty Ltd  
-SuperHouse site:  www.superhouse.tv  
-SuperHouse email: info@superhouse.tv  
+Copyright 2016 SuperHouse Automation Pty Ltd  www.superhouse.tv  
 
 Power supply expansion shield for the [WeMos D1 Mini][1], which is a microcontroller board based on the ESP8266 module.
 
@@ -18,11 +16,11 @@ Features:
 
 ![Oblique view 1](https://raw.githubusercontent.com/SuperHouse/D1MPOWER/master/images/D1MPOWER-v1_0-in-use-800x520.jpg)
 
-![Oblique view 2](https://raw.githubusercontent.com/SuperHouse/D1MPOWER/master/images/D1MPOWER-oblique-v1_0.png)
+![Oblique view 2](https://raw.githubusercontent.com/SuperHouse/D1MPOWER/master/images/D1MPOWER-v1_0-oblique-render.png)
 
-![Top view](https://raw.githubusercontent.com/SuperHouse/D1MPOWER/master/images/D1MPOWER-top-v1_0.png)
+![Top view](https://raw.githubusercontent.com/SuperHouse/D1MPOWER/master/images/D1MPOWER-v1_0-top-render.png)
 
-![Bottom view](https://raw.githubusercontent.com/SuperHouse/D1MPOWER/master/images/D1MPOWER-bottom-v1_0.png)
+![Bottom view](https://raw.githubusercontent.com/SuperHouse/D1MPOWER/master/images/D1MPOWER-v1_0-bottom-render.png)
 
 More information is available at:
 
